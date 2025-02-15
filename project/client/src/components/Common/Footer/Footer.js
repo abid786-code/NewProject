@@ -22,48 +22,37 @@ export default function Footer() {
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Departments</h2>
               <nav className="list-none mb-10">
                 <li>
-                  <Link href="/academics/departments/ece" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Electronics & Communication</Link>
+                  <Link href="/academics/departments/ece" className="text-white hover:text-gray-300 cursor-pointer"> &#8658;Faculty of Arts & Humanities </Link>
                 </li>
                 <li>
-                  <Link href="/academics/departments/cse" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Computer Science</Link>
+                  <Link href="/academics/departments/cse" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Faculty of Science</Link>
                 </li>
                 <li>
-                  <Link href="/academics/departments/csbs" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Computer Science & Business Systems</Link>
+                  <Link href="/academics/departments/csbs" className="text-white hover:text-gray-300 cursor-pointer"> &#8658;  Faculty of Commerce & Business Studies</Link>
                 </li>
                 <li>
-                  <Link href="/academics/departments/ee" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Electrical Engineering</Link>
+                  <Link href="/academics/departments/ee" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Faculty of Computer Science & IT</Link>
                 </li>
                 <li>
-                  <Link href="/academics/departments/eee" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Electrical & Electronics</Link>
+                  <Link href="/academics/departments/eee" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Faculty of Fine Arts & Media Studies</Link>
                 </li>
                 <li>
-                  <Link href="/academics/departments/me" className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Mechanical Engineering</Link>
+                  <Link href="/academics/departments/me" className="text-white hover:text-gray-300 cursor-pointer"> &#8658;  Faculty of Education & Teacher Training</Link>
                 </li>
               </nav>
             </div>
 
             {/* Downloads */}
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">B. Tech Syllabus</h2>
+              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Arts & Humanities Syllabus</h2>
               <nav className="list-none mb-10">
                 <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSBS20.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; CSBS</a>
+                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSBS20.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; B.A.</a>
                 </li>
                 <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; CSE</a>
+                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/CSE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; M.A.</a>
                 </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/ECE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; ECE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/EE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; EE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/EEE.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; EEE</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://makautexam.net/aicte_details/CourseStructure/ME.pdf' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; ME</a>
-                </li>
+               
               </nav>
             </div>
             {/* Admission Enquiry */}
@@ -82,7 +71,7 @@ export default function Footer() {
 
             {/* AOT Online */}
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">AOT Online</h2>
+              <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">AGC Online</h2>
               <nav className="list-none mb-10">
                 <li>
                   <a target='_blank' href='https://www.linkedin.com/school/academy-of-technology/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; LinkedIn</a>
@@ -90,28 +79,17 @@ export default function Footer() {
                 <li>
                   <a target='_blank' href='https://www.instagram.com/aotconnect/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Instagram</a>
                 </li>
-                <li>
-                  <a target='_blank' href='https://www.youtube.com/channel/UC1lroAhlIz6Reni_I2dpaHA' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; YouTube</a>
-                </li>
-                <li>
-                  <a target='_blank' href='http://182.74.215.198/moodle/' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Moodle Portal Login</a>
-                </li>
-                <li>
-                  <a target='_blank' href='https://gic.aot.edu.in/index.html' className="text-white hover:text-gray-300 cursor-pointer"> &#8658; Google Innovation Centre</a>
-                </li>
-
-              </nav>
+             </nav>
             </div>
 
             <div className="lg:w-1/4 md:w-1/2 w-full px-4">
               <h2 className="title-font font-bold text-white tracking-widest text-lg mb-3">Address</h2>
 
-              <p className="text-white hover:text-gray-300 cursor-pointer">Grand Tank Road,</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Adisaptagram,</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Adecconagar , Bandel</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">Hoogly , 721212</p>
-              <p className="text-white hover:text-gray-300 cursor-pointer">academy.of.technology@aot.edu.in</p>
-              <h4 className="text-white hover:text-gray-300 cursor-pointer">+91 9883464589</h4>
+              <p className="text-white hover:text-gray-300 cursor-pointer"></p>
+              <p className="text-white hover:text-gray-300 cursor-pointer"> Bhudakudhahaan Mod , in front of Guraini Petrol Pump khetasarai jaunpur</p>
+              <p className="text-white hover:text-gray-300 cursor-pointer">Utter Pradesh</p>
+             <p className="text-white hover:text-gray-300 cursor-pointer">aliagirlscollege123@gmail.com</p>
+              <h4 className="text-white hover:text-gray-300 cursor-pointer">+91 8738921563</h4>
             </div>
 
           </AnimatedElement>
@@ -120,8 +98,8 @@ export default function Footer() {
         <div>
           <div>
             <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
-              <p className="text-gray-300 text-sm text-center sm:text-left">© 2024 AOT —
-                <a rel="noopener noreferrer" className="text-gray-300 ml-1" target="_blank">@aot</a>
+              <p className="text-gray-300 text-sm text-center sm:text-left">© 2024 AGC
+                <a rel="noopener noreferrer" className="text-gray-300 ml-1" target="_blank"></a>
               </p>
               <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
                 <a className="text-gray-300" href='https://m.facebook.com/profile.php?id=100067475193505&name=xhp_nt_' target='_blank'>

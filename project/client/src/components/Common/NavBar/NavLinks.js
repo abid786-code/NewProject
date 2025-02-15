@@ -2,11 +2,11 @@
 import React from "react";
 import Link from "next/link";
 import Dropdown from "./Dropdown";
-import { useAuth } from "@/context/auth";
+
 
 
 function NavLinks() {
-  const { authUser, IsLoading, setAuthUser } = useAuth();
+  
   const links = [
     {
       title: "Home",
@@ -20,11 +20,7 @@ function NavLinks() {
       title: "Contact",
       path: "/contact",
     },
-    {
-      title: "Events",
-      path: "/events",
-    },
-    {
+   {
       title: "Highlights",
       path: "/highlights",
     },
@@ -40,27 +36,12 @@ function NavLinks() {
           title: "Library",
           path: "/academics/resources/library",
         },
-        {
-          title: "moodle",
-          path: "/academics/resources/moodle",
-        },
+      
       ]
     },
-    {
-      title: "Alumni",
-      path: "/alumni",
-    },
-    // {
-    //   title: "Administration",
-    //   path: "/administration",
-    // },
-    {
-      authDependent: true,
-      title: "LogIn",
-      path: "/login",
-      Alttitle: "Dashboard",
-      Altpath: "/admin/dashboard",
-    },
+   
+   
+   
   ];
 
   return (

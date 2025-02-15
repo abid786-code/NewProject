@@ -36,114 +36,65 @@
     ],
     "DepartmentsData": [
         {
-            "Title": "ECE",
-            "Keyword": "ece",
-            "Description": "4 yrs B. Tech programme in Electronics & Communication Engineering. HOD: Dr. Abhijit Banerjee.",
-            "PageLink": "/academics/departments/ece",
-            "BannerPic": "/images/Department-of-Electronics-Communication-Engineering-Image.jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Electronics & Communication Engineering",
-                "YearofEstablishment": "July 2003",
-                "HODname": "Dr. Abhijit Banerjee.",
-                "HODContactMailId": "hod_ece@aot.edu.in",
-                "DepartmentStaticData": "/RichText/ECE.html"
-            }
+            "Title": "Faculty of Arts & Humanities",
+            "Keyword": "Art",
+            "Description": "The Department of Arts & Humanities nurtures critical thinking, creativity, and cultural awareness through a variety of disciplines  including:English Literature – Analyzing classical and contemporary works to enhance language and literary skills. Hindi & Urdu Studies – Exploring poetry, prose, and linguistic heritage.History & Political Science – Understanding historical events, governance, and international relations.",
+            "BannerPic": "https://t4.ftcdn.net/jpg/03/12/87/89/360_F_312878980_r6o1JoEn8HoTDtAzBauFinetK5SRzH7h.jpg"
+             },
+        {
+            "Title": "Faculty of Science",
+            "Keyword": "Science",
+            "Description": "Our Science Department is equipped with state-of-the-art laboratories and research facilities to provide hands-on learning in Physics – Studying mechanics, electromagnetism, and quantum theory. Chemistry – Exploring organic, inorganic, and physical chemistry.",
+            "BannerPic": "https://humsci.stanford.edu/sites/default/files/styles/open_graph_image_1200x630_1x/public/iStock-869034002_0.jpg?h=560fc75e&itok=8BiPbska"
+          
         },
         {
-            "Title": "CSE",
-            "Keyword": "cse",
-            "Description": "4 yrs B.Tech programme in Computer Science & Engineering. HOD: Prof. Prosenjit Das",
-            "PageLink": "/academics/departments/cse",
-            "BannerPic": "/images/collegepic(6).jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Computer Science & Engineering",
-                "YearofEstablishment": "July 2003",
-                "HODname": "Prof. Prosenjit Das",
-                "HODContactMailId": "hod_cse@aot.edu.in",
-                "DepartmentStaticData": "/RichText/CSE.html"
-            }
+            "Title": "Faculty of Commerce & Business Studies",
+            "Keyword": "Commerce",
+            "Description": "Preparing students for corporate, finance, and entrepreneurial success, this department offers: Accounting & Finance – Teaching financial management, auditing, and taxation.",
+           "BannerPic": "https://media.istockphoto.com/id/1370858711/photo/portrait-of-confident-young-middle-eastern-woman-smiling-and-looking-at-camera-in-coworking.jpg?s=612x612&w=0&k=20&c=wwwY_uNnOC28sinWrupt3pNtbUL6xwVOslFvL2-XKg8="
+           
+        },
+      
+        {
+            "Title": "mathematics Department",
+            "Keyword": "mathmatics Department",
+            "Description": "The Mathematics Department in a secondary school plays a crucial role in building students’ analytical and problem-solving skills. It covers fundamental and advanced topics to prepare students for higher education and real-world applications",
+           "BannerPic": "https://www.thestatesman.com/wp-content/uploads/2018/03/HIJABFRANCE.jpg"
+           
         },
         {
-            "Title": "CSBS",
-            "Keyword": "csbs",
-            "Description": "4 yrs B.Tech programme in Computer Science & Business Systems. HOD: Prof. Suman Bhattacharyya",
-            "PageLink": "/academics/departments/csbs",
-            "BannerPic": "/images/collegepic(2).jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Computer Science & Business Systems",
-                "YearofEstablishment": "July 2020",
-                "HODname": "Prof. Suman Bhattacharyya.",
-                "HODContactMailId": "hod_csbs@aot.edu.in",
-                "DepartmentStaticData": "/RichText/CSBS.html"
-            }
-        },
-        {
-            "Title": "EE",
-            "Keyword": "ee",
-            "Description": "4 yrs. B. Tech. programme in Electrical Engineering. HOD: Prof. Sandip Saha Chowdhury",
-            "PageLink": "/academics/departments/ee",
-            "BannerPic": "/images/collegepic(3).jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Electrical Engineering",
-                "YearofEstablishment": "July 2003",
-                "HODname": "Prof. Sandip Saha Chowdhury",
-                "HODContactMailId": "hod_ee@aot.edu.in",
-                "DepartmentStaticData": "/RichText/EE.html"
-            }
-        },
-        {
-            "Title": "EEE",
-            "Keyword": "eee",
-            "Description": "4 yrs B.Tech. programme in Electrical & Electronics Engineering. HOD : Prof. Hiranmoy Mondal",
-            "PageLink": "/academics/departments/eee",
-            "BannerPic": "/images/collegepic(4).jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Electrical & Electronics Engineering",
-                "YearofEstablishment": "July 2020",
-                "HODname": "Prof. Hiranmoy Mondal",
-                "HODContactMailId": "hod_eee@aot.edu.in",
-                "DepartmentStaticData": "/RichText/EEE.html"
-            }
-        },
-        {
-            "Title": "ME",
-            "Keyword": "me",
-            "Description": "4 yrs B.Tech. programme in Mechanical Engineering. HOD: Prof. Niloy Ghosh",
-            "PageLink": "/academics/departments/me",
-            "BannerPic": "/images/Department-of-Mechanical-Engineering-Image.jpg",
-            "PageRouteData": {
-                "DepartmentName": "Department of Mechanical Engineering",
-                "YearofEstablishment": "July 2009",
-                "HODname": " Prof. Niloy Ghosh",
-                "HODContactMailId": "hod_me@aot.edu.in",
-                "DepartmentStaticData": "/RichText/ME.html"
-            }
+            "Title": "Physical Education Department",
+            "Keyword": "PED",
+            "Description": "The Physical Education Department focuses on the overall physical and mental well-being of students. It encourages fitness, teamwork, and discipline through sports and activities.",
+            "BannerPic": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA9MO9g_LMtaS9sDQWixzC4_urSW0bTC4ZH4fTgkzPGKfwlWlWZ4o029hpbR8TJrUleSHGcsKQoXTtzx8nSo_mmkforjcEcn74Hx638kHs825dRr9FzaRUn3GV1Ri42EBhD7S8C8g3f6o/s1600/f47f2dba-1b10-4f32-aebe-f04c8d29e93d_16x9_788x442.jpg"
+           
         }
     ],
     "HighlightsData": [
         {
-            "Title": "The Techfest at the Academy of Technology",
-            "Description": "The Techfest at the Academy of Technology is an annual event that showcases innovation and creativity in various fields of technology. It features a range of activities including workshops, competitions, exhibitions, and lectures from industry experts. Students have the opportunity to display their projects, engage in hands-on learning, and network with professionals. This event aims to inspire and cultivate a passion for technology among attendees, fostering an environment of learning and collaboration.",
+            "Title": " Academic & Career-Oriented Events",
+            "Description": "Workshops & Guest Lectures – Renowned scholars, industry experts, and professionals conduct insightful sessions on topics like STEM, humanities, business, and technology.Annual Science & Innovation Fair – A platform for students to showcase groundbreaking ideas, projects, and research.",
             "PageLink": "/",
-            "BannerPic": "/images/collegepic(1).jpg"
+            "BannerPic": "https://static.vecteezy.com/system/resources/thumbnails/035/740/864/small_2x/ai-generated-a-smiling-malay-woman-graduate-in-graduation-attire-ai-generated-photo.jpg"
         },
         {
-            "Title": "Gamesmeet at the Academy of Technology",
+            "Title": "Cultural Festivals & Talent Showcases",
             "Description": "Gamesmeet at the Academy of Technology is an annual gathering focused on gaming and e-sports. It features competitive gaming tournaments, casual gaming sessions, and interactive workshops. Participants can compete in popular games, learn about game development, and connect with fellow gaming enthusiasts. The event aims to promote the gaming culture within the academy, encouraging both fun and educational experiences in the world of video games.",
             "PageLink": "/",
-            "BannerPic": "/images/collegepic(2).jpg"
+            "BannerPic": "https://i.ytimg.com/vi/yZF-Kh1s_xM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCRBXKQ-CbF3oOG8BogEXvTxiZpQw"
         },
         {
-            "Title": "The 'Women in Space Engineering' event at the Academy of Technology",
-            "Description": "The 'Women in Space Engineering' event at the Academy of Technology is a prestigious gathering that highlights the contributions of women in the field of space engineering. Esteemed IIT professors and renowned female scientists from ISRO come together to share their experiences, insights, and advancements in space technology. The event includes inspiring talks, panel discussions, and networking opportunities, aiming to encourage and empower female students to pursue careers in space engineering and related fields.",
+            "Title": " Sports & Wellness Activities",
+            "Description": "Annual Sports Meet 🏆 – Students compete in athletics, relay races, badminton, volleyball, and table tennis. Inter-Collegiate Tournaments – We participate in basketball, cricket, football, and chess competitions at the district and state levels.Yoga & Meditation Retreats – Fostering mental well-being with certified yoga instructors and wellness experts.",
             "PageLink": "/",
-            "BannerPic": "/images/collegepic(3).jpg"
+            "BannerPic": "https://al-taqwa.vic.edu.au/wp-content/uploads/2017/03/xIMG_0232.jpg"
         },
         {
-            "Title": "The GDG September Meet at the Academy of Technology",
-            "Description": "The GDG September Meet at the Academy of Technology is a monthly gathering hosted by the Google Developer Group. It features tech talks, coding sessions, and networking opportunities for developers to share knowledge and collaborate on projects.",
+            "Title": "Social Initiatives & Leadership Programs",
+            "Description": "Women Empowerment Sessions – Discussions on gender equality, leadership, and self-growth led by influential speakers.Environmental Awareness Campaigns 🌱 – Tree plantations, clean-up drives, and sustainability workshops..",
             "PageLink": "/",
-            "BannerPic": "/images/collegepic(4).jpg"
+            "BannerPic": "https://www.equalaccess.org/wp-content/uploads/2018/11/22539076010_b305de712b_o-1000x750.jpg"
         }
     ],
     "EventsData": [

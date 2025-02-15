@@ -8,40 +8,40 @@ import AnimatedElement from '@/components/Common/Animation/AnimatedElement';
 export default function Accordion() {
     const AccordionData = [
         {
-            "title": "What is the total fee payable at the time of admission for regular students?",
-            "description": "The total fee payable at the time of admission for regular students is ₹1,05,200."
+            "title": "What type of school is Alia Girls College?",
+            "description": "Alia Girls College is an all-girls school providing education from Nursery to Class 10 with a focus on academic excellence and overall development."
         },
         {
-            "title": "What is the total fee payable at the time of admission for students allotted through TFW (Tuition Fee Waiver) scheme?",
-            "description": "The total fee payable at the time of admission for students allotted through TFW is ₹53,200."
+            "title": "Where is the school located?",
+            "description": "The school is located at  Bhudakudhahaan Mod, in front of Guraini Petrol Pump, Jaunpur."
         },
         {
-            "title": "How much is the tuition fee per semester?",
-            "description": "The tuition fee per semester is ₹52,000."
+            "title": " Which board is the school affiliated with?",
+            "description": "The school is affiliated with CBSE / ICSE / UP Board."
         },
         {
-            "title": "Are there any additional fees that might be charged by the University (MAKAUT)?",
-            "description": "Yes, there are additional fees charged by the University, which include:  1) University Development Fees @ ₹550 per year (one-time payment of ₹2,200) 2) University Registration Fees @ ₹500 (one-time payment)"
+            "title": "What is the medium of instruction?",
+            "description": "The school follows an English-medium curriculum, but Hindi and regional languages are also taught as per the board guidelines"
         },
         {
-            "title": "Is the caution deposit refundable?",
-            "description": "Yes, the caution deposit of ₹10,000 is refundable."
+            "title": "What is the school’s timing?",
+            "description": "School timings are 10am  to 3pm , but they may vary for different grades."
         },
         {
-            "title": "How can the fees be paid?",
-            "description": "The fees can be paid by cash or demand draft in favour of 'ACADEMY OF TECHNOLOGY,' payable at Kolkata."
+            "title": "What documents are required for admission?",
+            "description": "The required documents include: Birth Certificate Aadhaar Card (if available) Passport-size photographs"
         },
         {
-            "title": "Are the tuition fees subject to change?",
-            "description": "Yes, the tuition fees may be revised based on directives from the West Bengal Government."
+            "title": "Does the school offer computer education?",
+            "description": "Yes, Computer Science is a part of the curriculum from Class 1 onwards."
         },
         {
-            "title": "What is the Vidyarthi Mediclaim, and how much does it cost?",
-            "description": "Vidyarthi Mediclaim is a medical insurance for students, and it costs ₹2,500 (one-time payment)."
+            "title": "Are parent-teacher meetings (PTMs) conducted?",
+            "description": "Are parent-teacher meetings (PTMs) conducted"
         },
         {
-            "title": " What are the fees for library services?",
-            "description": "The library fees, which cover the Book Bank, Journals, and Digital Library, amount to ₹6,000 (one-time payment)."
+            "title": " Does the school conduct exams?",
+            "description": "Yes, the school follows a semester-wise examination system as per the affiliated board’s guidelines"
         }
     ]
 

@@ -23,12 +23,11 @@ export default function Page() {
 
         <div className="text-center">
           <h1 className="text-lg sm:text-2xl font-bold tracking-tight text-gray-900 dark:text-gray-300 md:text-4xl">
-            “Aspires to be a pre-eminent deemed university of national standing in education and innovation”.
+          Alia Girls College – Empowering Women Through Education
           </h1>
           <p className="mt-6 text-md sm:text-xl text-gray-600 dark:text-gray-300 font-medium">
-            All academic programmes are approved by AICTE, recognized by Department of Higher
-
-            Education, Government of West Bengal and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal (formerly West Bengal University of Technology) .
+          Alia Girls College is dedicated to providing quality education and fostering a nurturing environment where young women can excel academically and personally. Our institution emphasizes holistic development, empowering students with knowledge, skills, and confidence to achieve their dreams.
+           
           </p>
         </div>
       </div>
