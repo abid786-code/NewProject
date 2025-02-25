@@ -8,7 +8,7 @@ import NextTopLoader from 'nextjs-toploader';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: 'Alia GIrls College',
+  title: 'Alia Girls College',
   description: 'Alia Girls College',
   generator: 'Next.js',
   applicationName: 'Alia girls College',
